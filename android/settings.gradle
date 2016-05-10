@@ -1,0 +1,3 @@
+rootProject.name = 'Keza'
+
+include ':app'
